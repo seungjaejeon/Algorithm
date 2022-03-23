@@ -1,0 +1,13 @@
+import sys
+R1,S=map(int,input().split())#한줄에 입력받기
+if int(R1)>=1000:#조건문
+    print("R1은 1000을 넘을 수 없습니다.")
+elif int(R1)<=-1000:
+    print("R1은 -1000보다 작을 수 없습니다.")
+elif int(S)>=1000:
+    print("S는 1000을 넘을 수 3없습니다.")
+elif int(S)<=-1000:
+    print("S는 -1000보다 작을 수 없습니다.")
+else:
+    R2=2*int(S)-int(R1)
+    print(int(R2))
