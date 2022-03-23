@@ -1,0 +1,55 @@
+#include<stdio.h> //c언어
+int main()
+{
+	int i;
+	int x[4] = {0};
+	int k;
+	int check=0;
+	scanf("%d",&k);
+	for (i = 1; i < k+1; i++)
+	{
+		def(x,i);
+		if (or (i) <= 2)
+		{
+			check++; //두자릿수 아래일경우 증가
+		}
+		if (or (i) == 3)
+		{
+			int temp = x[1] - x[2];
+			if (x[3]==x[2] - temp )
+				check++;//조건 모두 만족-->증가
+		}
+		if (or (i) == 4)
+		{
+			int temp = x[0] - x[1];
+			if (x[2]== x[1] - temp&& x[3]== x[2] - temp)
+					check++;//조건 모두 만족-->증가
+		}
+	}
+	printf("%d", check);
+}
+int or (int k)//k라는 수가 몇자리수인가?
+{
+	int x[4];
+	int num = 4;
+	def(x, k);
+	if (x[0] == 0)
+	{
+		num = 3;
+	}
+	if (x[0] == 0&&x[1] == 0)
+		{
+			num = 2;
+		}
+	if (x[0] == 0 && x[1] == 0&&x[2] == 0)
+			{
+				num = 1;
+			}
+	return num;
+}int def(int *x,int k)
+{
+	x[0] = k / 1000;
+	x[1] = k / 100 - x[0] * 10;
+	x[2] = k / 10 - x[0] * 100 - x[1] * 10;
+	x[3] = k - 1000 * x[0] - 100 * x[1] - 10 * x[2];
+}
