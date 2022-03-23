@@ -1,0 +1,49 @@
+#include<stdio.h>
+#define MAX 2188
+int main()
+{
+	char a[MAX][MAX];
+	int k, i, j;
+	scanf("%d", &k);
+	for (i = 0; i < k; i++)
+	{
+		for (j = 0; j < k; j++) {
+			a[i][j] = '*';
+		}
+	}re(k, k, a);
+	for (i = 0; i < k; i++)
+	{
+		for (j = 0; j < k; j++) {
+			printf("%c", a[i][j]);
+		}printf("\n");
+	}
+}
+int change(int l, int r, int k, char a[][MAX])
+{
+	//r은 범위
+	int i, j;
+	for (i = (k / 3) + l; i < l + (2 * k / 3); i++)
+	{
+		for (j = (k / 3) + r; j < (2 * k / 3) + r; j++)
+		{
+			a[i][j] = ' ';
+		}
+	}
+}int re(int k, int t, char a[][MAX])
+{
+	int i, j, tt;
+	int pp = 0;
+	if (t == 1) {}
+	else {
+		for (i = 0; i < k / t; i++)
+		{
+			tt = 0;
+			for (j = 0; j < k / t; j++)
+			{
+				change(pp, tt, t, a);
+				tt = tt + t;
+			}pp = pp + t;
+		}
+		re(k, t / 3, a);
+	}
+}
