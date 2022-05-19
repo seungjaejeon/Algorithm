@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{int h;int m;int t;
+	scanf("%d %d",&h,&m);
+	t=h*60+m;
+	if(t<45)t=t+1440;
+	h=(t-45)/60;
+	m=(t-45)%60;
+	printf("%d %d",h,m);
+	return 0;}
