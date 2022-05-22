@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+	int c;
+	int A, B;
+	scanf("%d", &A);
+	scanf("%d", &B);
+	if (A > 0 && B < 10)
+	{
+		c = A + B;
+		printf("%d", c);
+	}
+	return 0;
+}
