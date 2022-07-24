@@ -122,3 +122,64 @@ for i in range(10) # 0부터 9까지
 for i in range(start, stop, step) # step은 숫자들 간의 간격을 말한다.
 start부터 stop-1까지 step의 간격으로!
 
+# 사전 (dictionary) 키-값 쌍
+my_dictionary = {
+
+    5: 25,
+    
+    2: 4,
+    
+    3: 9
+    
+}
+
+print(my_dictonary[3]) # 9출력됨
+
+my_dictionary[9] = 81 #9: 81입력됨
+
+사전의 키는 꼭 정수일 필요가 없음
+
+# 사전 활용법
+
+print('이지영' in my_family.values()) # True
+
+for value in my_family.values(): #값들을 출력
+    
+    print(value)
+    
+for key in my_family.keys(): #키들을 받아옴
+
+for key, value in my_family.items():
+    
+    print(key, value) # 키와 값들을 전부 출력
+    
+# Aliasing
+
+x = 3
+
+x = y
+
+y = 5
+
+print(y) #5출력됨
+
+
+x = {2, 3, 5, 7, 10}
+
+y = x
+
+y[2] = 4
+
+print(x) #{2, 3, 4, 7, 10}이 출력됨 이 떄 y = list(x)를 사용했다면 x의 복사본을 y라고 지정한것이므로 y의 값을 바꿔도 x의 값이 바뀌지 않음
+
+# 문자열과 리스트의 공통점과 차이점
+
+두 자료형은 공통적으로 인덱싱이 가능하다.
+
+또한 슬라이싱 역시 가능하다.
+
+덧셈 연산은 연결하는 연산이다.
+
+len함수를 사용가능하다.
+
+문자열과 리스트가 매우 흡사하지만 문자열은 수정이 불가능하고 리스트는 값의 수정이 가능하다.
