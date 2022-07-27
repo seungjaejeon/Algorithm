@@ -5,9 +5,9 @@ def generate_numbers(n):
     i = 1
     while i <= n:
         i += 1
-        ran = randint(1, 46)
+        ran = randint(1, 45)
         while ran in num:
-            ran = randint(1, 46)        
+            ran = randint(1, 45)        
         num.append(ran)
     return num
 
@@ -18,7 +18,7 @@ def draw_winning_numbers():
     numbers.sort()
     
     while len(numbers) < 7:
-        ran = randint(1, 46)
+        ran = randint(1, 45)
 
         if ran not in numbers:
             numbers.append(ran)
