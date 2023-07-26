@@ -7,8 +7,6 @@ for i in range(N):
 direction = [[-1,0],[0,1],[1,0],[0,-1]] #북, 동, 남, 서
 def go(i,j,d):
     global count
-    # if i<0 or j<0 or i>(N-1) or j>(M-1):
-    #     return
     if pan[i][j]==0: #현재칸이 청소되지 않았다면 청소한다.
         pan[i][j]=2
         count += 1
