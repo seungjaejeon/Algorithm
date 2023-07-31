@@ -31,8 +31,6 @@ for i in itertools.permutations(cal_besort,len(cal_besort)):
             else: #양수를 양수로 나누는 경우
                 result = result//A[A_index]
                 A_index+=1
-
-
     if min_result>result:
         min_result = result # 최소값
     if max_result<result:
