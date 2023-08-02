@@ -27,8 +27,6 @@ def can_turn_right(number,r): #오른쪽 톱니바퀴가 돌아가는가?
 def what_direction_turn(number,direction):
     if number>3 or number<0:
         return
-    for gear in gears:
-        print(gear)
     r, l = gears[number][2], gears[number][6]
     turn(number,direction)
     visited[number]=True
@@ -36,8 +34,6 @@ def what_direction_turn(number,direction):
         what_direction_turn(number+1,-direction)
     if can_turn_left(number-1,l) and visited[number-1]==False:
         what_direction_turn(number-1,-direction)
-    
-
     return
 
 def turn(number, direction): # number는 회전시킬 톱니바퀴
@@ -58,6 +54,4 @@ if gears[2][0]==1:
     answer+=4
 if gears[3][0]==1:
     answer+=8
-
-
-print(gears,answer)
+print(answer)
