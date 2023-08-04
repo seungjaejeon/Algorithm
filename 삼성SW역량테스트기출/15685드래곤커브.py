@@ -1,8 +1,8 @@
 from collections import deque
 import sys
-# 드래곤 커브 모양 구현 
-# 회전시키기
-# 1*1정사각형 개수 구하기 
+# 방향에 따른 드래곤 커브를 생성하기 
+# 생성된 드래곤 커브를 지도에 (pan)에 칠하기
+# 정사각형 개수 구하기
 pan = [[0] * 101 for _ in range(101)]
 # 0: 우 1: 상 2: 좌 3: 하
 # 우로 시작하는 dp
@@ -29,5 +29,4 @@ for i in range(100):
     for j in range(100):
         if pan[i][j] == 1 and pan[i + 1][j] == 1 and pan[i][j + 1] == 1 and pan[i + 1][j + 1] == 1:
             answer += 1
-    print(pan[i])
 print(answer)
