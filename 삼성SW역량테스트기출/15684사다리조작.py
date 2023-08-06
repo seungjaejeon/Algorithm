@@ -1,6 +1,5 @@
 import sys
 N,M,H = map(int, sys.stdin.readline().split())
-garo = []
 sadari = [[0] * N for _ in range(H)]
 for i in range(M):
     a,b = map(int, sys.stdin.readline().split())
@@ -30,7 +29,6 @@ def dfs(cnt, x, y):
     if cnt == 3:
         return
     for i in range(x, H):
-        k = y if i == x else 0     # 같은 세로줄 확인하면 y부터 확인. 세로줄 다르면 0부터 
         for j in range(k, N - 1):
             if sadari[i][j] == 0: # 0인 경우 가로줄 만들고, 연속된 가로선을 만들지 않기 위해 j + 2호출
                 sadari[i][j] = 1
