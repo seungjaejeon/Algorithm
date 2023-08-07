@@ -24,3 +24,5 @@
 [15686번 치킨 배달](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-15686%EB%B2%88-%EC%B9%98%ED%82%A8-%EB%B0%B0%EB%8B%AC-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
 
 [15684번 사다리 조작](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-15684%EB%B2%88-%EC%82%AC%EB%8B%A4%EB%A6%AC-%EC%A1%B0%EC%9E%91-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
+
+[5373번 큐빙](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-5373%EB%B2%88-%ED%81%90%EB%B9%99-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
