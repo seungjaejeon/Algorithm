@@ -43,8 +43,6 @@ while 1:
     eat_list.sort(key=lambda x:(-x[2],-x[0],-x[1])) # 오름차순 정렬 우선순위: 거리, x, y 순
     if len(eat_list)<1: # 먹을 수 있는 리스트가 없으면 무한루프 탈출
         break
-    print(eat_list, size, eat)
-
     nx,ny,distance = eat_list.pop()
     # 먹은 좌표로 이동시킴
     x = nx

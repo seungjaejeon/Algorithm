@@ -30,3 +30,5 @@
 [16234번 인구이동](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16234%EB%B2%88-%EC%9D%B8%EA%B5%AC-%EC%9D%B4%EB%8F%99-%EC%82%BC%EC%84%B1SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
 
 [16236번 아기상어 (BFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16236%EB%B2%88-%EC%95%84%EA%B8%B0-%EC%83%81%EC%96%B4-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python-BFS)
+
+[16235 나무재테크 (구현, 시간제한)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16235%EB%B2%88-%EB%82%98%EB%AC%B4-%EC%9E%AC%ED%85%8C%ED%81%AC-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
