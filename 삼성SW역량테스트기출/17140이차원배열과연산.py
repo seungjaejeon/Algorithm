@@ -23,7 +23,6 @@ def sort_new(matrix, RC):
         if len(i)>100:
             i = i[:100]
     return sorted_matrix if RC=="R" else list(zip(*sorted_matrix))
-
 result = 0
 while True:
     count = 0
@@ -40,5 +39,4 @@ while True:
         # C연산
         A = sort_new(list(zip(*A)),"C")
     result += 1
-
 print(result)
