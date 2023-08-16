@@ -44,3 +44,7 @@
 ### DP
 [2167번 이차원 배열의 합](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2167%EB%B2%88-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9-Python-DP)
 
+# SWEA
+## blog
+
+[1206_SW 문제해결 기본 1일차 - View](https://velog.io/@seungjae/SWEA-1206.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-1%EC%9D%BC%EC%B0%A8-View-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-Python)
