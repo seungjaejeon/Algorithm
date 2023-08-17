@@ -39,5 +39,12 @@
 
 [17144번 미세먼지 안녕! (구현)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-17144%EB%B2%88-%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80-%EC%95%88%EB%85%95-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python)
 
+[17779번 게리맨더링2 (구현, 완전탐색)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-17779%EB%B2%88-%EA%B2%8C%EB%A6%AC%EB%A7%A8%EB%8D%94%EB%A7%812-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python-%EA%B5%AC%ED%98%84-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
 
+### DP
+[2167번 이차원 배열의 합](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2167%EB%B2%88-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9-Python-DP)
 
+# SWEA
+## blog
+
+[1206_SW 문제해결 기본 1일차 - View](https://velog.io/@seungjae/SWEA-1206.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-1%EC%9D%BC%EC%B0%A8-View-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-Python)
