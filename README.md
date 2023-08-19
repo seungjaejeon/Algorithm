@@ -44,6 +44,9 @@
 ### DP
 [2167번 이차원 배열의 합](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2167%EB%B2%88-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4%EC%9D%98-%ED%95%A9-Python-DP)
 
+### BFS/DFS
+[1260번 DFS와 BFS](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1260%EB%B2%88-DFS%EC%99%80-BFS-Python-DFS-BFS)
+
 # SWEA
 ## blog
 
