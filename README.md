@@ -47,6 +47,8 @@
 ### BFS/DFS
 [1260번 DFS와 BFS](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1260%EB%B2%88-DFS%EC%99%80-BFS-Python-DFS-BFS)
 
+[백준 2178번 미로탐색 (BFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2178%EB%B2%88-%EB%AF%B8%EB%A1%9C%ED%83%90%EC%83%89-Python-BFS)
+
 # SWEA
 ## blog
 
