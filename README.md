@@ -53,6 +53,8 @@
 
 [백준 2667번 단지번호붙이기 (Python, BFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2667%EB%B2%88-%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0-Python-BFS)
 
+[백준 2644번 촌수계산 (Python, DFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2644%EB%B2%88-%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0-Python-DFS)
+
 # SWEA
 ## blog
 
