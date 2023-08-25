@@ -55,6 +55,8 @@
 
 [백준 2644번 촌수계산 (Python, DFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2644%EB%B2%88-%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0-Python-DFS)
 
+[백준 7569번 토마토 문제 (Python, BFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-7569%EB%B2%88-%ED%86%A0%EB%A7%88%ED%86%A0-%EB%AC%B8%EC%A0%9C-Python-BFS-Gold5)
+
 # SWEA
 ## blog
 
