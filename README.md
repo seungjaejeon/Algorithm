@@ -57,6 +57,8 @@
 
 [백준 7569번 토마토 문제 (Python, BFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-7569%EB%B2%88-%ED%86%A0%EB%A7%88%ED%86%A0-%EB%AC%B8%EC%A0%9C-Python-BFS-Gold5)
 
+[백준 1697번 숨바꼭질 (Python, BFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1697%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-Python-BFS)
+
 # SWEA
 ## blog
 
