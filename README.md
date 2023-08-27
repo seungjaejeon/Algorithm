@@ -59,6 +59,8 @@
 
 [백준 1697번 숨바꼭질 (Python, BFS)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1697%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-Python-BFS)
 
+[백준 5014번 스타트링크 (Python, BFS, Silver1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-5014%EB%B2%88-%EC%8A%A4%ED%83%80%ED%8A%B8%EB%A7%81%ED%81%AC-Python-BFS-Silver1)
+
 # SWEA
 ## blog
 
