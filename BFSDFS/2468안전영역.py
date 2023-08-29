@@ -3,13 +3,10 @@ from collections import deque
 N = int(sys.stdin.readline())
 graph = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 max_rain = max(map(max, graph))
-min_rain = min(map(min, graph))
-print(max_rain, min_rain)
-# 물의 양 조절하기
-# 물에 잠기는 영역 확인하기
-# 안전한영역의 개수 체크하기
+
 dx = [0,0,-1,1]
 dy = [1,-1,0,0]
+
 def bfs(i,j):
     global count
     q = deque()
@@ -27,7 +24,7 @@ def bfs(i,j):
                 sink[nx][ny] = True # 잠겼다고 가정시킴
                 q.append((nx,ny))
 count_list = []
-for rain in range(min_rain, max_rain): # 물의 양 조절
+for rain in range(max_rain): # 물의 양 조절
     count = 0 # 안전한 영역의 개수 카운트
     sink = [[False for _ in range(N)] for i in range(N)] # 물에 잠긴 부분 초기화
     for i in range(N):
