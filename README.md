@@ -65,6 +65,8 @@
 
 [백준 2573번 빙산 (Python, BFS, Gold4)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2573%EB%B2%88-%EB%B9%99%EC%82%B0-Python-BFS)
 
+[백준 9205번 맥주 마시면서 걸어가기 (Python, DFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0-Python-DFS-Gold5)
+
 # SWEA
 ## blog
 
