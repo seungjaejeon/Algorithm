@@ -67,6 +67,8 @@
 
 [백준 9205번 맥주 마시면서 걸어가기 (Python, DFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0-Python-DFS-Gold5)
 
+[백준 13549번 숨바꼭질 3 (Python, BFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-13549%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-3-Python-BFS)
+
 # SWEA
 ## blog
 
