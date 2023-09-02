@@ -1,4 +1,7 @@
 # 백준
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjyk2002)](https://solved.ac/sjyk2002/)
+
 ## blog
 ### 삼성 SW역량테스트 기출
 [백준 14891번 톱니바퀴](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-14891-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python-%EA%B5%AC%ED%98%84)
