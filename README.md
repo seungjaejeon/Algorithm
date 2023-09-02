@@ -67,6 +67,8 @@
 
 [백준 9205번 맥주 마시면서 걸어가기 (Python, DFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0-Python-DFS-Gold5)
 
+[백준 16637번 괄호 추가하기 (Python, 구현, 브루트포스, DFS, Gold3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16637%EB%B2%88-%EA%B4%84%ED%98%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-Python-%EA%B5%AC%ED%98%84-%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4-DFS)
+
 # SWEA
 ## blog
 
