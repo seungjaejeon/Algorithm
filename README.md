@@ -72,6 +72,9 @@
 
 [백준 13549번 숨바꼭질 3 (Python, BFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-13549%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-3-Python-BFS)
 
+[백준 16637번 괄호 추가하기 (Python, 구현, 브루트포스, DFS, Gold3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16637%EB%B2%88-%EA%B4%84%ED%98%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-Python-%EA%B5%AC%ED%98%84-%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4-DFS)
+
+
 # SWEA
 ## blog
 
