@@ -1,4 +1,7 @@
 # 백준
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjyk2002)](https://solved.ac/sjyk2002/)
+
 ## blog
 ### 삼성 SW역량테스트 기출
 [백준 14891번 톱니바퀴](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-14891-%ED%86%B1%EB%8B%88%EB%B0%94%ED%80%B4-%EC%82%BC%EC%84%B1-SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8-Python-%EA%B5%AC%ED%98%84)
@@ -67,7 +70,10 @@
 
 [백준 9205번 맥주 마시면서 걸어가기 (Python, DFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-9205%EB%B2%88-%EB%A7%A5%EC%A3%BC-%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C-%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0-Python-DFS-Gold5)
 
+[백준 13549번 숨바꼭질 3 (Python, BFS, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-13549%EB%B2%88-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88-3-Python-BFS)
+
 [백준 16637번 괄호 추가하기 (Python, 구현, 브루트포스, DFS, Gold3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16637%EB%B2%88-%EA%B4%84%ED%98%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-Python-%EA%B5%AC%ED%98%84-%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4-DFS)
+
 
 # SWEA
 ## blog
