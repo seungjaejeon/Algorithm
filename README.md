@@ -74,6 +74,8 @@
 
 [백준 16637번 괄호 추가하기 (Python, 구현, 브루트포스, DFS, Gold3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-16637%EB%B2%88-%EA%B4%84%ED%98%B8-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-Python-%EA%B5%AC%ED%98%84-%EB%B8%8C%EB%A3%A8%ED%8A%B8%ED%8F%AC%EC%8A%A4-DFS)
 
+### Class 3
+[백준 1074번 Z Class 3문제 (Python, Silver1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1074%EB%B2%88-Z-Class-3%EB%AC%B8%EC%A0%9C-Python-Silver1)
 
 # SWEA
 ## blog
