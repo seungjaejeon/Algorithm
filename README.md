@@ -77,6 +77,8 @@
 ### Class 3
 [백준 1074번 Z Class 3문제 (Python, Silver1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1074%EB%B2%88-Z-Class-3%EB%AC%B8%EC%A0%9C-Python-Silver1)
 
+[백준 1107 리모컨 Class 3 문제 (Python, 완전탐색, Gold5)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1107-%EB%A6%AC%EB%AA%A8%EC%BB%A8-Class-3-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-Gold5)
+
 # SWEA
 ## blog
 
