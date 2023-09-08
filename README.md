@@ -81,6 +81,7 @@
 
 [백준 1389번 케빈 베이컨의 6단계 법칙 Class 3 문제 (Python, BFS, Silver1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1389%EB%B2%88-%EC%BC%80%EB%B9%88-%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98-6%EB%8B%A8%EA%B3%84-%EB%B2%95%EC%B9%99-Python-BFS-Silver1)
 
+[백준 1463번 1로 만들기 Class 3 문제 (Python, BFS, DP, Silver3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1463%EB%B2%88-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Class-3-%EB%AC%B8%EC%A0%9C-Python-BFS-DP-Silver3)
 # SWEA
 ## blog
 
