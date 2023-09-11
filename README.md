@@ -82,6 +82,8 @@
 [백준 1389번 케빈 베이컨의 6단계 법칙 Class 3 문제 (Python, BFS, Silver1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1389%EB%B2%88-%EC%BC%80%EB%B9%88-%EB%B2%A0%EC%9D%B4%EC%BB%A8%EC%9D%98-6%EB%8B%A8%EA%B3%84-%EB%B2%95%EC%B9%99-Python-BFS-Silver1)
 
 [백준 1463번 1로 만들기 Class 3 문제 (Python, BFS, DP, Silver3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1463%EB%B2%88-1%EB%A1%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-Class-3-%EB%AC%B8%EC%A0%9C-Python-BFS-DP-Silver3)
+
+[백준 1620번 나는야 포켓몬 마스터 이다솜 (Python, dictionary, Silver4)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1620%EB%B2%88-%EB%82%98%EB%8A%94%EC%95%BC-%ED%8F%AC%EC%BC%93%EB%AA%AC-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%9D%B4%EB%8B%A4%EC%86%9C-Python-dictionary)
 # SWEA
 ## blog
 
