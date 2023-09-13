@@ -86,6 +86,8 @@
 [백준 1620번 나는야 포켓몬 마스터 이다솜 (Python, dictionary, Silver4)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1620%EB%B2%88-%EB%82%98%EB%8A%94%EC%95%BC-%ED%8F%AC%EC%BC%93%EB%AA%AC-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%9D%B4%EB%8B%A4%EC%86%9C-Python-dictionary)
 
 [백준 1764번 듣보잡 Class 3 (Python, dict)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1764%EB%B2%88-%EB%93%A3%EB%B3%B4%EC%9E%A1-Class-3-Python-dict)
+
+[백준 2579번 계단 오르기 (Python, DP, Silver3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2579%EB%B2%88-%EA%B3%84%EB%8B%A8-%EC%98%A4%EB%A5%B4%EA%B8%B0-Python-DP)
 # SWEA
 ## blog
 
