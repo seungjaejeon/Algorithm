@@ -88,6 +88,9 @@
 [백준 1764번 듣보잡 Class 3 (Python, dict)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1764%EB%B2%88-%EB%93%A3%EB%B3%B4%EC%9E%A1-Class-3-Python-dict)
 
 [백준 2579번 계단 오르기 (Python, DP, Silver3)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-2579%EB%B2%88-%EA%B3%84%EB%8B%A8-%EC%98%A4%EB%A5%B4%EA%B8%B0-Python-DP)
+
+[백준 1931번 회의실 배정 (Python, Greedy, Silver 1)](https://velog.io/@seungjae/%EB%B0%B1%EC%A4%80-1931%EB%B2%88-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95-Python-Greedy-Silver-1)
+
 # SWEA
 ## blog
 
