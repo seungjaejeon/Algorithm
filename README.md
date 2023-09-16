@@ -95,3 +95,5 @@
 ## blog
 
 [1206_SW 문제해결 기본 1일차 - View](https://velog.io/@seungjae/SWEA-1206.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-1%EC%9D%BC%EC%B0%A8-View-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4-Python)
+
+[SWEA 5215 햄버거 다이어트 (Python, DFS)](https://velog.io/@seungjae/SWEA-5215-%ED%96%84%EB%B2%84%EA%B1%B0-%EB%8B%A4%EC%9D%B4%EC%96%B4%ED%8A%B8-Python-DFS)
