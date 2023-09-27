@@ -13,7 +13,6 @@ def dfs(i, j, d, count):
         dfs(nx, ny, d, count + 1)
     else:
         return
-    
 T = int(input())
 for test_case in range(1, T + 1):
     result = "NO"
@@ -31,5 +30,7 @@ for test_case in range(1, T + 1):
             if pan[i][j]==1:
                 for d in range(8):
                     dfs(i,j,d,1)
+            if result=="YES":
+                break
     print(f'#{test_case} {result}')
                 
