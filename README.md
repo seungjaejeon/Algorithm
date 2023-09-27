@@ -105,3 +105,5 @@
 [SWEA 4615 재미있는 오셀로 게임 (Python, DFS, D3)](https://velog.io/@seungjae/SWEA-4615-%EC%9E%AC%EB%AF%B8%EC%9E%88%EB%8A%94-%EC%98%A4%EC%85%80%EB%A1%9C-%EA%B2%8C%EC%9E%84-Python-DFS-D3)
 
 [SWEA 1860번 진기의 최고급 붕어빵 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-1860%EB%B2%88-%EC%A7%84%EA%B8%B0%EC%9D%98-%EC%B5%9C%EA%B3%A0%EA%B8%89-%EB%B6%95%EC%96%B4%EB%B9%B5-Python-%EA%B5%AC%ED%98%84-D3)
+
+[SWEA 11315. 오목 판정 (Python, DFS, D3)](https://velog.io/@seungjae/SWEA-11315.-%EC%98%A4%EB%AA%A9-%ED%8C%90%EC%A0%95-Python-DFS-D3)
