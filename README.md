@@ -109,3 +109,5 @@
 [SWEA 11315. 오목 판정 (Python, DFS, D3)](https://velog.io/@seungjae/SWEA-11315.-%EC%98%A4%EB%AA%A9-%ED%8C%90%EC%A0%95-Python-DFS-D3)
 
 [SWEA 3282. 0/1 Knapsack (Python, DP, D3)](https://velog.io/@seungjae/SWEA-3282.-01-Knapsack-Python-DP-D3)
+
+[SWEA 6190. 정곤이의 단조 증가하는 수 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-6190.-%EC%A0%95%EA%B3%A4%EC%9D%B4%EC%9D%98-%EB%8B%A8%EC%A1%B0-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EC%88%98-Python-%EA%B5%AC%ED%98%84-D3)
