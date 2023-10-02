@@ -113,3 +113,5 @@
 [SWEA 6190. 정곤이의 단조 증가하는 수 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-6190.-%EC%A0%95%EA%B3%A4%EC%9D%B4%EC%9D%98-%EB%8B%A8%EC%A1%B0-%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94-%EC%88%98-Python-%EA%B5%AC%ED%98%84-D3)
 
 [SWEA 13428. 숫자 조작 (Python, 완전탐색, D3)](https://velog.io/@seungjae/SWEA-13428.-%EC%88%AB%EC%9E%90-%EC%A1%B0%EC%9E%91-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D3)
+
+[SWEA 3307. 최장 증가 부분 수열 (Python, LIS(Longest Increasing Subsequence), D3)](https://velog.io/@seungjae/SWEA-3307.-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4-Python-LISLongest-Increasing-Subsequence-D3)
