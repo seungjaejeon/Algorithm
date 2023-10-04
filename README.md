@@ -115,3 +115,5 @@
 [SWEA 13428. 숫자 조작 (Python, 완전탐색, D3)](https://velog.io/@seungjae/SWEA-13428.-%EC%88%AB%EC%9E%90-%EC%A1%B0%EC%9E%91-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D3)
 
 [SWEA 3307. 최장 증가 부분 수열 (Python, LIS(Longest Increasing Subsequence), D3)](https://velog.io/@seungjae/SWEA-3307.-%EC%B5%9C%EC%9E%A5-%EC%A6%9D%EA%B0%80-%EB%B6%80%EB%B6%84-%EC%88%98%EC%97%B4-Python-LISLongest-Increasing-Subsequence-D3)
+
+[SWEA 9280. 진용이네 주차타워 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-9280.-%EC%A7%84%EC%9A%A9%EC%9D%B4%EB%84%A4-%EC%A3%BC%EC%B0%A8%ED%83%80%EC%9B%8C-Python-%EA%B5%AC%ED%98%84-D3)
