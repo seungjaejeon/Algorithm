@@ -12,7 +12,6 @@ for test_case in range(1, T + 1):
     for i in range(m):
         W.append(int(input()))
     for i in range(2*m):
-        print(parking)
         x = int(input())
         if x > 0: # 들어오는 차라면
             # 이 때 만약 이미 기다리는 사람들이 있다면?
@@ -36,4 +35,4 @@ for test_case in range(1, T + 1):
                     else: 
                         parking[j] = 0
                         break
-    print(result)
+    print(f'#{test_case} {result}')
