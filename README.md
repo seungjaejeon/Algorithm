@@ -121,3 +121,5 @@
 [SWEA 13038. 교환학생 (Python, 완전탐색, D3)](https://velog.io/@seungjae/SWEA-13038.-%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D3)
 
 [SWEA 3752. 가능한 시험 점수(Python, 완전탐색, D4)](https://velog.io/@seungjae/SWEA-3752.-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%8B%9C%ED%97%98-%EC%A0%90%EC%88%98Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D4)
+
+[SWEA 1209. [S/W 문제해결 기본] 2일차 - Sum (Python, 완전탐색, D3)](https://velog.io/@seungjae/SWEA-1209.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Sum-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D3)
