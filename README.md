@@ -127,3 +127,5 @@
 [SWEA 1220. [S/W 문제해결 기본] 5일차 - Magnetic (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-1220.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-5%EC%9D%BC%EC%B0%A8-Magnetic-Python-%EA%B5%AC%ED%98%84-D3)
 
 [SWEA 1225. [S/W 문제해결 기본] 7일차 - 암호생성기 (Python, Queue, D3)](https://velog.io/@seungjae/SWEA-1225.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-7%EC%9D%BC%EC%B0%A8-%EC%95%94%ED%98%B8%EC%83%9D%EC%84%B1%EA%B8%B0-Python-Queue-D3)
+
+[SWEA 1240. [S/W 문제해결 응용] 1일차 - 단순 2진 암호코드 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-1240.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EC%9D%91%EC%9A%A9-1%EC%9D%BC%EC%B0%A8-%EB%8B%A8%EC%88%9C-2%EC%A7%84-%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C-Python-%EA%B5%AC%ED%98%84-D3)
