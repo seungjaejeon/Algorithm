@@ -1,7 +1,6 @@
 T = int(input())
 for test_case in range(1, T + 1):
     p, q = map(int, input().split())
-    pan = [[0 for i in range(200)] for j in range(200)]
     # y = -x + a임을 이용
     a_p = 0
     a_q = 0
@@ -22,7 +21,7 @@ for test_case in range(1, T + 1):
     result_y = p_y+q_y
     result = 0
     len_res = result_x+result_y
-    for i in range(len_res):
+    for i in range(len_res-1):
         result += i
     result += result_x
-    print(result)
+    print(f'#{test_case} {result}')
