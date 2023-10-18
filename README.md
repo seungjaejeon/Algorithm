@@ -131,3 +131,5 @@
 [SWEA 1240. [S/W 문제해결 응용] 1일차 - 단순 2진 암호코드 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-1240.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EC%9D%91%EC%9A%A9-1%EC%9D%BC%EC%B0%A8-%EB%8B%A8%EC%88%9C-2%EC%A7%84-%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C-Python-%EA%B5%AC%ED%98%84-D3)
 
 [SWEA 1493. 수의 새로운 연산 (Python, 구현?수학?, D3)](https://velog.io/@seungjae/SWEA-1493.-%EC%88%98%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%97%B0%EC%82%B0-Python-%EA%B5%AC%ED%98%84%EC%88%98%ED%95%99-D3)
+
+[SWEA 1249. [S/W 문제해결 응용] 4일차 - 보급로 (Python, BFS, D4)](https://velog.io/@seungjae/SWEA-1249.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EC%9D%91%EC%9A%A9-4%EC%9D%BC%EC%B0%A8-%EB%B3%B4%EA%B8%89%EB%A1%9C-Python-BFS-D4)
