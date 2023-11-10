@@ -138,4 +138,6 @@
 
 [SWEA 1210. [S/W 문제해결 기본] 2일차 - Ladder1 (Python, 구현, D4)](https://velog.io/@seungjae/SWEA-1210.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Ladder1-Python-%EA%B5%AC%ED%98%84-D4)
 
+[SWEA 6485. 삼성시의 버스 노선 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-6485.-%EC%82%BC%EC%84%B1%EC%8B%9C%EC%9D%98-%EB%B2%84%EC%8A%A4-%EB%85%B8%EC%84%A0-Python-%EA%B5%AC%ED%98%84-D3)
+
 [SWEA 1954. 달팽이 숫자 (Python, 구현, D2)](https://velog.io/@seungjae/SWEA-1954.-%EB%8B%AC%ED%8C%BD%EC%9D%B4-%EC%88%AB%EC%9E%90)
