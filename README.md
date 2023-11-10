@@ -137,3 +137,5 @@
 [SWEA 2819. 격자판의 숫자 이어 붙이기 (Python, DFS, 완전탐색, D4)](https://velog.io/@seungjae/SWEA-2819.-%EA%B2%A9%EC%9E%90%ED%8C%90%EC%9D%98-%EC%88%AB%EC%9E%90-%EC%9D%B4%EC%96%B4-%EB%B6%99%EC%9D%B4%EA%B8%B0-Python-DFS-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89-D4)
 
 [SWEA 1210. [S/W 문제해결 기본] 2일차 - Ladder1 (Python, 구현, D4)](https://velog.io/@seungjae/SWEA-1210.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EA%B8%B0%EB%B3%B8-2%EC%9D%BC%EC%B0%A8-Ladder1-Python-%EA%B5%AC%ED%98%84-D4)
+
+[SWEA 1954. 달팽이 숫자 (Python, 구현, D2)](https://velog.io/@seungjae/SWEA-1954.-%EB%8B%AC%ED%8C%BD%EC%9D%B4-%EC%88%AB%EC%9E%90)
