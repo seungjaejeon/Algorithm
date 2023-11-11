@@ -16,3 +16,5 @@ for _ in range(1, T + 1):
             if max_count <= score[i]:
                 max_count_score = i
                 max_count = score[i]
+    
+    print(f'#{test_case} {max_count_score}')
