@@ -141,3 +141,5 @@
 [SWEA 6485. 삼성시의 버스 노선 (Python, 구현, D3)](https://velog.io/@seungjae/SWEA-6485.-%EC%82%BC%EC%84%B1%EC%8B%9C%EC%9D%98-%EB%B2%84%EC%8A%A4-%EB%85%B8%EC%84%A0-Python-%EA%B5%AC%ED%98%84-D3)
 
 [SWEA 1954. 달팽이 숫자 (Python, 구현, D2)](https://velog.io/@seungjae/SWEA-1954.-%EB%8B%AC%ED%8C%BD%EC%9D%B4-%EC%88%AB%EC%9E%90)
+
+[SWEA 1244. [S/W 문제해결 응용] 2일차 - 최대 상금 (Python, 완전탐색)](https://velog.io/@seungjae/SWEA-1244.-SW-%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0-%EC%9D%91%EC%9A%A9-2%EC%9D%BC%EC%B0%A8-%EC%B5%9C%EB%8C%80-%EC%83%81%EA%B8%88-Python-%EC%99%84%EC%A0%84%ED%83%90%EC%83%89)
