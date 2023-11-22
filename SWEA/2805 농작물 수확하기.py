@@ -1,11 +1,9 @@
 
 from collections import deque
 T = int(input())
-# 여러개의 테스트 케이스가 주어지므로, 각각을 처리합니다.
 dx = [1,-1,0,0]
 dy = [0,0,-1,1]
 for test_case in range(1, T + 1):
-    # ///////////////////////////////////////////////////////////////////////////////////
     N = int(input())
     pan = []
     visited = [[0 for i in range(N)] for j in range(N)]
@@ -31,5 +29,5 @@ for test_case in range(1, T + 1):
         for j in range(N): 
             if visited[i][j] <= N//2+1: # N/2세대 이하인 부분을 result에 출력하도록 한다.
                 result += int(pan[i][j])
+                
     print(f'#{test_case} {result}') 
-    # ///////////////////////////////////////////////////////////////////////////////////
