@@ -16,6 +16,8 @@ def dijkstra(s):
     heapq.heappush(q, (0, s))
     while q:
         c, x = heapq.heappop(q)
+        if dist[x] < c:
+            continue
         for nxt, cost in node[x]:
             dist_cost = c+cost
             if dist[nxt] > dist_cost:
