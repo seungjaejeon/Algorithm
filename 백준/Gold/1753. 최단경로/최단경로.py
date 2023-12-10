@@ -1,27 +1,32 @@
 import sys
 import heapq
-input=sys.stdin.readline
+V, E = map(int, sys.stdin.readline().split())
+K = int(sys.stdin.readline())
+node = [[] for i in range(V+1)]
+for i in range(E):
+    u, v, w = map(int, sys.stdin.readline().split())
+    node[u].append((v, w))
 
-INF=10**7
-N,M=map(int,input().split())
-K=int(input())
-adj=[[] for _ in range(N+1)]
-for _ in range(M):
-    u,v,w=map(int,input().split())
-    adj[u].append((v,w))
-d=[INF for _ in range(N+1)]
+dist = [float('INF') for i in range(V+1)]
 
-d[K]=0
-heap=[(0,K)]
-while heap:
-    cost_v,v=heapq.heappop(heap)
-    for w,cost_vw in adj[v]:
-        dist=cost_v+cost_vw
-        if dist<d[w]:
-            heapq.heappush(heap,(dist,w))
-            d[w]=dist
-for v in range(1,N+1):
-    if d[v]==INF:
-        print('INF')
+
+def dijkstra(s):
+    q = []
+    dist[K] = 0
+    heapq.heappush(q, (0, s))
+    while q:
+        c, x = heapq.heappop(q)
+        for nxt, cost in node[x]:
+            dist_cost = c+cost
+            if dist[nxt] > dist_cost:
+                dist[nxt] = dist_cost
+                heapq.heappush(q, (dist_cost, nxt))
+
+
+dijkstra(K)
+
+for i in range(1, V+1):
+    if dist[i] >= float('inf'):
+        print("INF")
     else:
-        print(d[v])
+        print(dist[i])
