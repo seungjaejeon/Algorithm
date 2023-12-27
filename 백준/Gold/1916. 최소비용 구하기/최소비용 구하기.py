@@ -15,15 +15,17 @@ dist = [float('inf') for i in range(N + 1)]
 def dijkstra(s):
     q = []
     dist[s] = 0
-    heapq.heappush(q, (s, 0))
+    heapq.heappush(q, (0, s))
     while q:
-        x, c = heapq.heappop(q)
+        c, x = heapq.heappop(q)
         if dist[x] < c:
             continue
         for nxt, cost in bus[x]:
-            if dist[nxt] > c + cost:
-                dist[nxt] = c + cost
-                heapq.heappush(q, (nxt, dist[nxt]))
+            dist_cost = c + cost
+            if dist[nxt] > dist_cost:
+                dist[nxt] = dist_cost
+                heapq.heappush(q, (dist_cost, nxt))
+
 
 
 dijkstra(s)
